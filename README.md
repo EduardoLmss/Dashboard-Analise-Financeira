@@ -4,7 +4,7 @@ Este projeto tem como objetivo construir um dashboard financeiro interativo no P
 
 ## 🖼️ Visão Geral do Dashboard
 
-![Dashboard de Análise Financeira](image.png)
+![Dashboard de Análise Financeira](DashboardAnaliseFinanceira.png)
 
 ## ✅ Indicadores Analisados
 
